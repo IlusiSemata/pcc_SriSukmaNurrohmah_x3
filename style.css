@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to bottom, #87CEEB, #FFB385, #87CEEB);
+    background: linear-gradient(to bottom, #BDD5E3, #E8E9EA, #87CEEB);
 }
 .card {
     margin-top: 50px;
@@ -26,8 +26,8 @@ body {
 }
 
 p.text-muted {
-    color: #CFBFA2 !important;
+    color: #94BBC9 !important;
 }
 h2, .list-unstyled li {
-    color: #99927D;
+    color: #709FB0;
 }
