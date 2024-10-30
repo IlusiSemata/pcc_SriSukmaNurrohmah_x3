@@ -1,5 +1,5 @@
 body {
-    background-color: #E5D4CC;
+    background: linear-gradient(to bottom, #FFB385, #87CEEB);
 }
 .card {
     margin-top: 50px;
