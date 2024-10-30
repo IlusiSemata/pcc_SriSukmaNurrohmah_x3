@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to bottom, #E8E9EA, #BDD5E3, #B8C3C2);
+    background: linear-gradient(to bottom, #E8E9EA, #BDD5E3, #E8E9EA);
 }
 .card {
     margin-top: 50px;
@@ -14,7 +14,7 @@ body {
     margin-bottom: 20px;
 }
 .btn-instagram {
-    background: linear-gradient(to right, #FEB47B, #FF7E5F);
+    background: linear-gradient(to right, #CFBFA2, #9E8668);
     color: white;
     border: none;
     padding: 10px 20px;
@@ -22,12 +22,12 @@ body {
 }
 
 .btn-instagram:hover {
-    background: linear-gradient(to right, #FF7E5F, #FEB47B);
+    background: linear-gradient(to right, #9E8668, #CFBFA2);
 }
 
 p.text-muted {
-    color: #94BBC9 !important;
+    color: #CFBFA2 !important;
 }
 h2, .list-unstyled li {
-    color: #709FB0;
+    color: #9E8668;
 }
