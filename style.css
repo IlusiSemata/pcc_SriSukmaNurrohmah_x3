@@ -2,12 +2,8 @@ body {
     background: linear-gradient(to bottom, #87CEEB, #FFB385, #FF7E5F);
 }
 .card {
-    background: linear-gradient(to bottom, #87CEEB, #FFB385, #FF7E5F);
     margin-top: 50px;
     border-radius: 15px;
-    padding: 20px;
-    color: #333;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
 .profile-img {
     width: 150px;
