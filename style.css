@@ -24,3 +24,10 @@ body {
 .btn-instagram:hover {
     background: linear-gradient(to right, #FF7E5F, #FEB47B);
 }
+
+p.text-muted {
+    color: #CFBFA2 !important;
+}
+h2, .list-unstyled li {
+    color: #99927D;
+}
