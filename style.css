@@ -14,15 +14,16 @@ body {
     margin-bottom: 20px;
 }
 .btn-instagram {
-    background: linear-gradient(to bottom, #FFB385, #FF7E5F);
+    background: linear-gradient(to right, #833AB4, #FD1D1D, #F56040, #FFDC80);
     color: white;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
+    transition: 0.3s ease;
 }
 
 .btn-instagram:hover {
-    background: linear-gradient(to bottom, #FF7E5F, #FFB385);
+    background: linear-gradient(to right, #FFDC80, #F56040, #FD1D1D, #833AB4);
 }
 
 p.text-muted {
