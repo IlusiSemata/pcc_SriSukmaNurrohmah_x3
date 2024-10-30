@@ -4,6 +4,7 @@ body {
 .card {
     margin-top: 50px;
     border-radius: 15px;
+    font-family: "Times New Roman", Times, serif;
 }
 .profile-img {
     width: 150px;
