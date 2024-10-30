@@ -14,7 +14,7 @@ body {
     margin-bottom: 20px;
 }
 .btn-instagram {
-    background: linear-gradient(to right, #CFBFA2, #9E8668);
+    background: linear-gradient(to bottom, #FFB385, #FF7E5F);
     color: white;
     border: none;
     padding: 10px 20px;
@@ -22,7 +22,7 @@ body {
 }
 
 .btn-instagram:hover {
-    background: linear-gradient(to right, #9E8668, #CFBFA2);
+    background: linear-gradient(to bottom, #FF7E5F, #FFB385);
 }
 
 p.text-muted {
